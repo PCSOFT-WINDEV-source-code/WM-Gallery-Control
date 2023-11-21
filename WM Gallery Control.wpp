@@ -1,0 +1,229 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WM Gallery Control
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Android application
+    internal_properties : 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
+    configuration_id : 14144197863806243705
+    type : 15
+    generation_directory : .\Exe\Android Application
+    version : {}
+    language : 2
+  -
+    name : iOS application
+    internal_properties : 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
+    configuration_id : 1715082714913257212
+    type : 18
+    generation_directory : .\Exe\iOS application
+    version : {}
+    language : 2
+ elements :
+  identifier : 0x4bd8933400027f7a
+  elements :
+   -
+     name : WIN_Gallery
+     identifier : 0x4bd893a9026449ab
+     internal_properties : CAAAAAgAAABaMAIGpeLK1SVYyyXHLEZuqgvRib/gpJJ2BZ/8bo0PGZMDiEEW9DUaxmVfWdkX49U/xw==
+     physical_name : .\WIN_Gallery.wdw
+     type : 2
+   -
+     name : WIN_Gallery_Tablet
+     identifier : 0x4bdc29dc00371e3c
+     internal_properties : CAAAAAgAAADq8+U0lXcavlt77R9JJk+F5WUM8uSKX21KqrI2WONJra0bGRm3B1+igTnmC29nnQ==
+     physical_name : .\WIN_Gallery_Tablet.wdw
+     type : 2
+   -
+     name : WIN_Details
+     identifier : 0x4bd988f300478805
+     internal_properties : CAAAAAgAAAB51aHlwr/3+O7+zzYokkJNy5oSWo74d6aKNKbak4gCFubeJdNhX2QoKxqEfAT8hHRc5A==
+     physical_name : .\WIN_Details.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Exe\Fotolia_65293669_Subscription_Monthly_M.jpg
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\Fotolia_65324243_Subscription_Monthly_M.jpg
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\Fotolia_78907278_Subscription_Monthly_M.jpg
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\Fotolia_79499109_Subscription_Monthly_M.jpg
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\Fotolia_91450375_Subscription_Monthly_M.jpg
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\Fotolia_99549334_Subscription_Monthly_M.jpg
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\home-IMG_0556.JPG
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\home-IMG_2778.JPG
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\home-IMG_3929.JPG
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\IMG_2468.JPG
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\IMG_2476.JPG
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\IMG_3077.JPG
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\IMG_3146.JPG
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\Travel.fic
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+   -
+     physical_name : .\Exe\Travel.ndx
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 14144197863806243705
+      -
+        internal_properties : CAAAAAgAAACgyIz/g/abg0OIcFjRU6MoPxHgdmhMlUpvgcBi+arW
+        configuration_id : 1715082714913257212
+  analysis : .\WM Gallery Control.ana\WM Gallery Control.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAADhSTot8gg6JJGHOq0bGLLuOZqBPiM3L70qBpxnVh6yAplw4aGrU+HT8z3ATXNafaE3TyaFWlAzOtdtFIDiQ1ZP4jWj2s2N6g==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Android application
+     identifier : 0x4bd8933400037f7a
+     code_elements :
+      type_code : 159
+      p_codes : []
+   -
+     name : iOS application
+     identifier : 0x4bd89811026a9370
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
